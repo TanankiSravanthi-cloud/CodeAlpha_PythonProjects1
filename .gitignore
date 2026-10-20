@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+portfolio_report.csv
+extracted_emails.txt
+webpage_title.txt
